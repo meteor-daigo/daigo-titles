@@ -1,0 +1,11 @@
+{
+	"name": "daigo-titles",
+	"description": "The titles package for Daigo",
+	"homepage": "https://github.com/meteor-daigo/daigo-titles",
+	"author": "The Daigo Team",
+	"version": "0.1.0",
+	"git": "https://github.com/meteor-daigo/daigo-titles.git",
+	"packages": {
+		"smart-collections": {}
+	}
+}
